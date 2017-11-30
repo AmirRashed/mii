@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1512041590 source:c:\users\amir rashed\desktop\maghud\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fun.h"
+
+1512043723 c:\users\amir rashed\desktop\maghud\fun.h
+	"struct.h"
+
+1512039485 c:\users\amir rashed\desktop\maghud\struct.h
+

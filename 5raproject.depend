@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1513874364 source:c:\users\amir rashed\desktop\5raproject\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1513929135 source:c:\users\amir rashed\desktop\lll\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
